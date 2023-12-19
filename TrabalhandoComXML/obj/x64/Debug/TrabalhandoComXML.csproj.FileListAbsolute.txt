@@ -1,0 +1,11 @@
+C:\Users\SAPB1\source\repos\SAPB1\TrabalhandoComXML\bin\x64\Debug\TrabalhandoComXML.exe.config
+C:\Users\SAPB1\source\repos\SAPB1\TrabalhandoComXML\bin\x64\Debug\TrabalhandoComXML.exe
+C:\Users\SAPB1\source\repos\SAPB1\TrabalhandoComXML\bin\x64\Debug\TrabalhandoComXML.pdb
+C:\Users\SAPB1\source\repos\SAPB1\TrabalhandoComXML\obj\x64\Debug\TrabalhandoComXML.csproj.AssemblyReference.cache
+C:\Users\SAPB1\source\repos\SAPB1\TrabalhandoComXML\obj\x64\Debug\Interop.SAPbouiCOM.dll
+C:\Users\SAPB1\source\repos\SAPB1\TrabalhandoComXML\obj\x64\Debug\TrabalhandoComXML.csproj.ResolveComReference.cache
+C:\Users\SAPB1\source\repos\SAPB1\TrabalhandoComXML\obj\x64\Debug\TrabalhandoComXML.Properties.Resources.resources
+C:\Users\SAPB1\source\repos\SAPB1\TrabalhandoComXML\obj\x64\Debug\TrabalhandoComXML.csproj.GenerateResource.cache
+C:\Users\SAPB1\source\repos\SAPB1\TrabalhandoComXML\obj\x64\Debug\TrabalhandoComXML.csproj.CoreCompileInputs.cache
+C:\Users\SAPB1\source\repos\SAPB1\TrabalhandoComXML\obj\x64\Debug\TrabalhandoComXML.exe
+C:\Users\SAPB1\source\repos\SAPB1\TrabalhandoComXML\obj\x64\Debug\TrabalhandoComXML.pdb
